@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ammaar
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in making money actually
+- 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on building projects and developing myself
 - 📫 How to reach me Email; aaismail2018@gmail.com
 
